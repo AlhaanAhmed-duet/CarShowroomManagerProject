@@ -187,9 +187,7 @@ public class Login extends javax.swing.JFrame {
         this.dispose();
     }//GEN-LAST:event_signupUserBtnActionPerformed
 
-    private void closeBtnHandler(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_closeBtnHandler
-        // TODO add your handling code here:
-    }//GEN-LAST:event_closeBtnHandler
+ 
 
     private void buttonforCloseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_buttonforCloseActionPerformed
         // TODO add your handling code here:
